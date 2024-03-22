@@ -10,7 +10,7 @@ first_name: Ashley
 last_name: Trudeau
 
 # Status emoji
-status: tired
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
